@@ -164,7 +164,7 @@ export default async function PostPage({ params }: PostPageProps) {
 
   return (
     <>
-      <div className="min-h-full bg-gray-100 py-4">
+      <div className="min-h-full bg-gray-100 py-3">
         <div className="mx-auto max-w-7xl px-0 sm:px-8">
           <div className="mx-auto max-w-4xl">
             <div className="mx-auto max-w-4xl rounded-lg bg-white px-6 py-4 shadow-sm shadow-gray-300 ring-1 ring-black/5 sm:px-14 sm:py-10">
